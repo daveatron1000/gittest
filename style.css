@@ -1,0 +1,14 @@
+body{
+    background-color: honeydew;
+    position: fixed;
+}
+
+h1 {
+    color:blue;
+    background-color: white;
+    width: 50%;
+    border: 1px solid black;
+    padding: 30px;
+    margin:200px;
+    text-align: center;
+ }
